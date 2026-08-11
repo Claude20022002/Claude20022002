@@ -16,7 +16,7 @@
 ## À propos
 
 Étudiant en **cycle d'ingénieur d'État en Ingénierie Informatique & Intelligence Artificielle**
-à HESTIM Casablanca. Je conçois des produits complets — de la base de données au déploiement —
+à HESTIM Casablanca. Je conçois des produits complets de la base de données au déploiement
 avec un goût particulier pour les systèmes qui touchent le monde réel : robots, caméras, capteurs,
 caisses enregistreuses.
 
@@ -35,7 +35,7 @@ langues:      Français (natif) · Anglais (B1)
 
 > **Reverse-engineering non destructif d'un robot de réception commercial fermé**, puis
 > reconstruction d'une plateforme ouverte offrant les mêmes fonctionnalités que l'application
-> constructeur — voire davantage.
+> constructeur - voire davantage.
 
 <table>
 <tr>
