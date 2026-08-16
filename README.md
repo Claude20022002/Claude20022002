@@ -4,9 +4,6 @@
 
 <br/>
 
-<img src="https://avatars.githubusercontent.com/u/155392834?v=4" alt="Photo de profil" width="110" style="border-radius:50%; border: 3px solid #f97316;" />
-
-<br/><br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=780&lines=Ingénieur+Informatique+%26+Intelligence+Artificielle;Full-stack+%C2%B7+Robotique+collaborative+%C2%B7+Vision;Plateforme+ouverte+pour+robot+de+r%C3%A9ception+%28CYBEL%29;La+recherche+avant+tout.)](https://git.io/typing-svg)
 
