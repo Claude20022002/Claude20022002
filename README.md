@@ -4,16 +4,43 @@
 
 <br/>
 
+<img src="https://avatars.githubusercontent.com/u/155392834?v=4" alt="Photo de profil" width="110" style="border-radius:50%; border: 3px solid #f97316;" />
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=780&lines=Ingénieur+Informatique+%26+Intelligence+Artificielle;Full-stack+%C2%B7+Robotique+collaborative+%C2%B7+Vision;Plateforme+ouverte+pour+robot+de+r%C3%A9ception+%28CYBEL%29;La+recherche+avant+tout.)](https://git.io/typing-svg)
+
+<br/>
+
 [![Email](https://img.shields.io/badge/c.lusamote%40hestim.ma-0d1117?style=for-the-badge&logo=gmail&logoColor=f97316&labelColor=0d1117)](mailto:c.lusamote@hestim.ma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117)](https://www.linkedin.com/in/claudia-lusamote-kimfuta-271b512a8)
 ![Localisation](https://img.shields.io/badge/Casablanca-Maroc-0d1117?style=for-the-badge&logo=googlemaps&logoColor=f97316&labelColor=0d1117&color=0d1117)
 [![Organisation](https://img.shields.io/badge/@Africa--Future-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Africa-Future)
+[![Stage & collabs](https://img.shields.io/badge/Ouvert·stage·%26·collabs-0d1117?style=for-the-badge&logo=handshake&logoColor=f97316&labelColor=0d1117)](mailto:c.lusamote@hestim.ma)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Claude20022002&color=f97316&style=flat-square&label=visiteurs+du+profil)
 
 </div>
 
 ---
 
+## Sommaire
+
+| | | |
+|:---:|:---:|:---:|
+| [À propos](#à-propos) | [CYBEL](#projet-en-vedette--cybel) | [Projets phares](#projets-phares) |
+| [Autres travaux](#autres-travaux) | [Stack technique](#stack-technique) | [Parcours](#parcours) |
+| [Certifications](#certifications) | [Activité GitHub](#activité-github) | [Me contacter](#me-contacter) |
+
+---
+
 ## À propos
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 Étudiant en **cycle d'ingénieur d'État en Ingénierie Informatique & Intelligence Artificielle**
 à HESTIM Casablanca. Je conçois des produits complets de la base de données au déploiement
@@ -29,13 +56,32 @@ devise:       "La recherche avant tout."
 langues:      Français (natif) · Anglais (B1)
 ```
 
+</td>
+<td width="38%" valign="top" align="center">
+
+**En ce moment**
+
+[![CYBEL](https://img.shields.io/badge/Focus-CYBEL%20%C2%B7%20robot%20de%20r%C3%A9ception-f97316?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/Claude20022002/Projet-Stage-2026-Cybel)
+
+<br/>
+
+[![IEEE ICRA 2027](https://img.shields.io/badge/Article-IEEE%20ICRA%202027-38bdf8?style=for-the-badge&logo=ieee&logoColor=white)](https://github.com/Claude20022002/Rapport-projet-CYBEL)
+
+<br/>
+
+[![HESTIM FabLab](https://img.shields.io/badge/Stage-HESTIM%20%C2%B7%20FabLab-0d1117?style=for-the-badge&logo=googlecolab&logoColor=f97316)](https://github.com/Claude20022002)
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 ## Projet en vedette — CYBEL
 
 > **Reverse-engineering non destructif d'un robot de réception commercial fermé**, puis
 > reconstruction d'une plateforme ouverte offrant les mêmes fonctionnalités que l'application
-> constructeur - voire davantage.
+> constructeur — voire davantage.
 
 <table>
 <tr>
@@ -172,6 +218,10 @@ structure et rédige, le rendu PDF est produit côté serveur.
 
 ## Autres travaux
 
+<details open>
+<summary><b>Voir tous les projets secondaires</b></summary>
+<br/>
+
 | Projet | Description | Stack |
 |---|---|---|
 | **[Manga Accès IA](https://github.com/Claude20022002/manga-acces-ia)** | Transformer une page de manga en expérience de lecture audio accessible | `Python` `Vision` `TTS` |
@@ -183,11 +233,21 @@ structure et rédige, le rendu PDF est produit côté serveur.
 | **[MyAnime](https://github.com/Claude20022002/MyAnime)** | Catalogue de mangas et d'animes construit sur l'API Jikan | `JavaScript` `API REST` |
 | **[weatherPlan](https://github.com/Claude20022002/weatherPlan)** | Application météo branchée sur l'API OpenWeather | `JavaScript` `API REST` |
 
+</details>
+
 <br/>
 
 ## Stack technique
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,java,react,nextjs,vite,tailwind,fastapi,nodejs,nestjs,laravel,postgres,mysql,mongodb,docker,git,linux,postman&perline=10&theme=dark" alt="Stack principale" />
+
+<br/><br/>
+
+<details>
+<summary><b>Détail par domaine</b></summary>
+<br/>
 
 **Langages**
 
@@ -233,11 +293,17 @@ structure et rédige, le rendu PDF est produit côté serveur.
 ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
+</details>
+
 </div>
 
 <br/>
 
 ## Parcours
+
+<details open>
+<summary><b>Expériences & formation</b></summary>
+<br/>
 
 | Période | Rôle | Structure |
 |:---|:---|:---|
@@ -252,11 +318,15 @@ structure et rédige, le rendu PDF est produit côté serveur.
 Prépa ingénierie informatique, HESTIM (2023 – 2025) · Baccalauréat scientifique, option
 mathématiques, Gabon (2021 – 2022).
 
+</details>
+
 <br/>
 
 ## Certifications
 
-**+14 certifications** (Coursera, Cisco), dont :
+<details>
+<summary><b>+14 certifications (Coursera, Cisco, Meta, IBM…)</b></summary>
+<br/>
 
 | | |
 |---|---|
@@ -265,16 +335,25 @@ mathématiques, Gabon (2021 – 2022).
 | 🗄️ **Plateforme de base de données Oracle** · LearnQuest | 🚀 **Node.js & Express — backend** · IBM |
 | 📋 **Fondamentaux de la gestion de projet** · Google | 🐘 **Full-Stack avec Laravel & PHP** · Board Infinity |
 
+</details>
+
 <br/>
 
 ## Activité GitHub
 
 <div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Claude20022002&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=e6edf3&icon_color=38bdf8&include_all_commits=true&count_private=true" alt="Statistiques GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claude20022002&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=e6edf3&langs_count=8" alt="Langages les plus utilisés" />
+
+<br/><br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claude20022002&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claude20022002&theme=default" width="740" alt="Profil GitHub de Claude20022002 en un coup d'œil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Claude20022002&theme=default" width="740" alt="Profil GitHub en un coup d'œil" />
 </picture>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Claude20022002&hide_border=true&theme=github-dark-blue&ring=f97316&fire=f97316&currStreakLabel=38bdf8&background=0d1117" />
@@ -299,6 +378,20 @@ mathématiques, Gabon (2021 – 2022).
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Claude20022002&bg_color=ffffff&color=24292f&line=f97316&point=0a66c2&title_color=24292f&area=true&hide_border=true&custom_title=Contributions%20r%C3%A9centes" width="900" alt="Graphe des contributions récentes" />
 </picture>
 
+<br/><br/>
+
+**Dépôts épinglés**
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Claude20022002&repo=Projet-Stage-2026-Cybel&theme=react&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=e6edf3&icon_color=38bdf8" alt="CYBEL" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Claude20022002&repo=ebarka-jobs&theme=react&hide_border=true&bg_color=0d1117&title_color=f97316&text_color=e6edf3&icon_color=38bdf8" alt="e-barka Jobs" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Claude20022002/Claude20022002/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Claude20022002/Claude20022002/output/github-snake.svg" alt="Animation snake des contributions" />
+</picture>
+
 </div>
 
 <br/>
@@ -311,6 +404,7 @@ Ouvert aux **stages**, **projets freelance** et **collaborations en robotique / 
 
 [![Email](https://img.shields.io/badge/c.lusamote%40hestim.ma-f97316?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:c.lusamote@hestim.ma)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-lusamote-kimfuta-271b512a8)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Claude20022002)
 
 <sub>Bd Ghandi, Casablanca · Maroc — <i>« La recherche avant tout. »</i></sub>
 
