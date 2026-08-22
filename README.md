@@ -78,7 +78,7 @@ langues:      Français (natif) · Anglais (B1)
 
 > **Reverse-engineering non destructif d'un robot de réception commercial fermé**, puis
 > reconstruction d'une plateforme ouverte offrant les mêmes fonctionnalités que l'application
-> constructeur — voire davantage.
+> constructeur. voire davantage.
 
 <table>
 <tr>
@@ -91,11 +91,11 @@ Le robot **CIOT TY1251D** associe un châssis ROS à une tête Android, le tout 
 son constructeur. Le projet documente une méthodologie de rétro-ingénierie (4 hypothèses
 testées), puis reconstruit toute la chaîne :
 
-- 🎮 **Téléopération & navigation autonome** — POI, coordonnées, visite guidée multi-arrêts, carte SLAM
-- 🗣️ **Chatbot vocal 100 % hors-ligne** — STT Vosk, mot d'éveil, synthèse bilingue FR/EN
-- 👁️ **Reconnaissance faciale embarquée** — embeddings sur l'appareil, aucune image transmise
-- 📱 **Kiosque visiteur autonome** — déployé directement sur la tête Android via Termux, sans PC
-- 📊 **Dashboard opérateur** — diagnostics, patrouille, gestion des visiteurs en temps réel
+- 🎮 **Téléopération & navigation autonome** - POI, coordonnées, visite guidée multi-arrêts, carte SLAM
+- 🗣️ **Chatbot vocal 100 % hors-ligne** - STT Vosk, mot d'éveil, synthèse bilingue FR/EN
+- 👁️ **Reconnaissance faciale embarquée** - embeddings sur l'appareil, aucune image transmise
+- 📱 **Kiosque visiteur autonome** - déployé directement sur la tête Android via Termux, sans PC
+- 📊 **Dashboard opérateur** - diagnostics, patrouille, gestion des visiteurs en temps réel
 
 Le tout validé sur le terrain, avec un article scientifique soumis à **IEEE ICRA 2027**.
 
@@ -163,7 +163,7 @@ Plateforme de recherche et de publication d'emplois pour l'Afrique de l'Ouest, a
 </td>
 <td width="50%" valign="top">
 
-### FinAdmin Tech — Formation Pro
+### FinAdmin Tech - Formation Pro
 
 <img src="assets/projects/formation-pro.webp" alt="Page d'accueil de Formation Pro" width="100%" />
 
@@ -196,7 +196,7 @@ Site vitrine d'un cabinet de conseil : identité sur mesure, sections sectoriell
 </td>
 <td width="50%" valign="top">
 
-### CV augmenté par IA — e-barka
+### CV augmenté par IA - e-barka
 
 <img src="assets/projects/ebarka-cv-ia.webp" alt="Générateur de CV par IA d'e-barka Jobs" width="100%" />
 
@@ -304,12 +304,12 @@ structure et rédige, le rendu PDF est produit côté serveur.
 
 | Période | Rôle | Structure |
 |:---|:---|:---|
-| **2026** | Stage — Plateforme ouverte de commande robotique (CYBEL) | HESTIM · FabLab |
+| **2026** | Stage - Plateforme ouverte de commande robotique (CYBEL) | HESTIM · FabLab |
 | **Sept. 2025** | Assistant logistique & support informatique — automatisation, coordination, interlocuteurs ministériels et diplomatiques | Ambition 28 |
-| **Juil. 2025** | Stage robotique — déploiement d'un système collaboratif avec vision IA (MyCobot 280Pi, UltraArm P340) | HESTIM · FabLab |
-| **Juin – Juil. 2024** | Téléprospecteur — campagnes ciblées et gestion de base clients (France) | MD Call Center |
-| **2023 – 2025** | Membre actif — projets collaboratifs, animation et promotion du club | HIC Code Masters |
-| **Fév. – Août 2023** | Aide technicien — maintenance de réacteurs et capacités en arrêt technique | STI Company |
+| **Juil. 2025** | Stage robotique - déploiement d'un système collaboratif avec vision IA (MyCobot 280Pi, UltraArm P340) | HESTIM · FabLab |
+| **Juin – Juil. 2024** | Téléprospecteur - campagnes ciblées et gestion de base clients (France) | MD Call Center |
+| **2023 – 2025** | Membre actif - projets collaboratifs, animation et promotion du club | HIC Code Masters |
+| **Fév. – Août 2023** | Aide technicien - maintenance de réacteurs et capacités en arrêt technique | STI Company |
 
 **Formation** — Cycle ingénieur d'État en Informatique & IA, HESTIM Casablanca (2025 – 2028) ·
 Prépa ingénierie informatique, HESTIM (2023 – 2025) · Baccalauréat scientifique, option
@@ -327,9 +327,9 @@ mathématiques, Gabon (2021 – 2022).
 
 | | |
 |---|---|
-| 🌐 **CCNA — Introduction aux réseaux** · Cisco | 📊 **Analyse de données avec Python** · IBM |
+| 🌐 **CCNA Introduction aux réseaux** · Cisco | 📊 **Analyse de données avec Python** · IBM |
 | ⚛️ **React avancé** · Meta | 📱 **React Native** · Meta |
-| 🗄️ **Plateforme de base de données Oracle** · LearnQuest | 🚀 **Node.js & Express — backend** · IBM |
+| 🗄️ **Plateforme de base de données Oracle** · LearnQuest | 🚀 **Node.js & Express backend** · IBM |
 | 📋 **Fondamentaux de la gestion de projet** · Google | 🐘 **Full-Stack avec Laravel & PHP** · Board Infinity |
 
 </details>
@@ -403,6 +403,6 @@ Ouvert aux **stages**, **projets freelance** et **collaborations en robotique / 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudia-lusamote-kimfuta-271b512a8)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Claude20022002)
 
-<sub>Bd Ghandi, Casablanca · Maroc — <i>« La recherche avant tout. »</i></sub>
+<sub>Bd Ghandi, Casablanca · Maroc <i>« La recherche avant tout. »</i></sub>
 
 </div>
