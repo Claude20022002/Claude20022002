@@ -9,11 +9,11 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/c.lusamote%40hestim.ma-0d1117?style=for-the-badge&logo=gmail&logoColor=f97316&labelColor=0d1117)](mailto:c.lusamote@hestim.ma)
+[![Email](https://img.shields.io/badge/clusamote%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=f97316&labelColor=0d1117)](mailto:clusamote@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117)](https://www.linkedin.com/in/claudia-lusamote-kimfuta-271b512a8)
 ![Localisation](https://img.shields.io/badge/Casablanca-Maroc-0d1117?style=for-the-badge&logo=googlemaps&logoColor=f97316&labelColor=0d1117&color=0d1117)
 [![Organisation](https://img.shields.io/badge/@Africa--Future-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Africa-Future)
-[![Stage & collabs](https://img.shields.io/badge/Ouvert·stage·%26·collabs-0d1117?style=for-the-badge&logo=handshake&logoColor=f97316&labelColor=0d1117)](mailto:c.lusamote@hestim.ma)
+[![Stage & collabs](https://img.shields.io/badge/Ouvert·stage·%26·collabs-0d1117?style=for-the-badge&logo=handshake&logoColor=f97316&labelColor=0d1117)](mailto:clusamote@gmail.com)
 
 <br/>
 
