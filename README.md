@@ -8,7 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=780&lines=Ingénieur+Informatique+%26+Intelligence+Artificielle;Full-stack+%C2%B7+Robotique+collaborative+%C2%B7+Vision;Plateforme+ouverte+pour+robot+de+r%C3%A9ception+%28CYBEL%29;La+recherche+avant+tout.)](https://git.io/typing-svg)
 
 <br/>
-
+<br/>
+<br/>
 [![Email](https://img.shields.io/badge/clusamote%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=f97316&labelColor=0d1117)](mailto:clusamote@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=0d1117)](https://www.linkedin.com/in/claudia-lusamote-kimfuta-271b512a8)
 ![Localisation](https://img.shields.io/badge/Casablanca-Maroc-0d1117?style=for-the-badge&logo=googlemaps&logoColor=f97316&labelColor=0d1117&color=0d1117)
