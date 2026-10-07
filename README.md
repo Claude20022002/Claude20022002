@@ -172,7 +172,7 @@ pré-inscription, favoris, FAQ, pages légales et back-office d'administration.
 
 `React 19` `Vite 7` `React Router 7` `FastAPI` `PostgreSQL`
 
-[![Démo](https://img.shields.io/badge/Voir%20le%20site-f97316?style=flat-square&logo=vercel&logoColor=white)](https://formation-pro-eight.vercel.app)
+[![Site](https://img.shields.io/badge/finadmintech.fr-f97316?style=flat-square&logo=googlechrome&logoColor=white)](https://www.finadmintech.fr)
 ![Privé](https://img.shields.io/badge/dépôt-privé-30363d?style=flat-square&logo=github)
 
 </td>
@@ -190,7 +190,7 @@ Site vitrine d'un cabinet de conseil : identité sur mesure, sections sectoriell
 
 `React` `Vite` `Material UI` `Framer Motion`
 
-[![Démo](https://img.shields.io/badge/Voir%20le%20site-f97316?style=flat-square&logo=vercel&logoColor=white)](https://cx-consulting.vercel.app)
+[![Démo](https://img.shields.io/badge/Voir%20le%20site-f97316?style=flat-square&logo=vercel&logoColor=white)](https://cx-consulting.finadmintech.fr)
 ![Privé](https://img.shields.io/badge/dépôt-privé-30363d?style=flat-square&logo=github)
 
 </td>
