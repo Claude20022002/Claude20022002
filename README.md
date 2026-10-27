@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Claudia LUSAMOTE KIMFUTA — Ingénierie Informatique & Intelligence Artificielle" width="100%" />
+<img src="assets/banner.png" alt="Claudia LUSAMOTE KIMFUTA - Ingénierie Informatique & Intelligence Artificielle" width="100%" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 
 | | | |
 |:---:|:---:|:---:|
-| [À propos](#à-propos) | [CYBEL](#projet-en-vedette--cybel) | [Projets phares](#projets-phares) |
+| [À propos](#à-propos) | [CYBEL](#projet-en-vedette-cybel) | [Projets phares](#projets-phares) |
 | [Autres travaux](#autres-travaux) | [Stack technique](#stack-technique) | [Parcours](#parcours) |
 | [Certifications](#certifications) | [Activité GitHub](#activité-github) | [Me contacter](#me-contacter) |
 
@@ -74,7 +74,7 @@ langues:      Français (natif) · Anglais (B1)
 
 <br/>
 
-## Projet en vedette — CYBEL
+## Projet en vedette - CYBEL
 
 > **Reverse-engineering non destructif d'un robot de réception commercial fermé**, puis
 > reconstruction d'une plateforme ouverte offrant les mêmes fonctionnalités que l'application
@@ -305,15 +305,15 @@ structure et rédige, le rendu PDF est produit côté serveur.
 | Période | Rôle | Structure |
 |:---|:---|:---|
 | **2026** | Stage - Plateforme ouverte de commande robotique (CYBEL) | HESTIM · FabLab |
-| **Sept. 2025** | Assistant logistique & support informatique — automatisation, coordination, interlocuteurs ministériels et diplomatiques | Ambition 28 |
+| **Sept. 2025** | Assistant logistique & support informatique - automatisation, coordination, interlocuteurs ministériels et diplomatiques | Ambition 28 |
 | **Juil. 2025** | Stage robotique - déploiement d'un système collaboratif avec vision IA (MyCobot 280Pi, UltraArm P340) | HESTIM · FabLab |
-| **Juin – Juil. 2024** | Téléprospecteur - campagnes ciblées et gestion de base clients (France) | MD Call Center |
-| **2023 – 2025** | Membre actif - projets collaboratifs, animation et promotion du club | HIC Code Masters |
-| **Fév. – Août 2023** | Aide technicien - maintenance de réacteurs et capacités en arrêt technique | STI Company |
+| **Juin - Juil. 2024** | Téléprospecteur - campagnes ciblées et gestion de base clients (France) | MD Call Center |
+| **2023 - 2025** | Membre actif - projets collaboratifs, animation et promotion du club | HIC Code Masters |
+| **Fév. - Août 2023** | Aide technicien - maintenance de réacteurs et capacités en arrêt technique | STI Company |
 
-**Formation** — Cycle ingénieur d'État en Informatique & IA, HESTIM Casablanca (2025 – 2028) ·
+**Formation** - Cycle ingénieur d'État en Informatique & IA, HESTIM Casablanca (2025 - 2028) ·
 Prépa ingénierie informatique, HESTIM (2023 – 2025) · Baccalauréat scientifique, option
-mathématiques, Gabon (2021 – 2022).
+mathématiques, Gabon (2021 - 2022).
 
 </details>
 
